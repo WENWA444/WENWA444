@@ -33,7 +33,7 @@ Beginner-friendly walkthrough of port scanning, SQL injection, reverse shell and
 
 📫 **Connect with Me**  
 📧 wenwaashley@gmail.com
-🔗 [LinkedIn](www.linkedin.com/in/ashley-wenwa)  
+🔗 [LinkedIn] (https://www.linkedin.com/in/ashley-wenwa/)
 💾 [Resume
 
 ---
