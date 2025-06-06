@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashley Wenwa
 
-<!--
-**WENWA444/WENWA444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Cybersecurity Enthusiast | Cloud Security Learner | CTF Solver  
+📜 Cybershujaa Certified | Passionate about securing digital systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me
+I’m a detail-oriented and dependable cybersecurity professional with hands-on experience in CTFs, vulnerability assessments, and securing cloud environments. I enjoy breaking things ethically, documenting my process, and learning through real-world practice.
+
+✅ Focus: Cloud Security, Web Exploitation, Linux  
+🛡️ Certification: Cybershujaa  
+🧠 Skills: Nmap, Burp Suite, Gobuster, Netcat, Linux, Azure, TryHackMe  
+
+---
+
+## 🔐 Projects
+
+### 🔹 [Simple CTF - TryHackMe](https://github.com/yourusername/simple-ctf-writeup)
+Beginner-friendly walkthrough of port scanning, SQL injection, reverse shell and privilege escalation.
+
+## 🛠️ Tools & Tech
+
+| Category        | Tools / Platforms |
+|----------------|------------------|
+| Enumeration     | Nmap, Gobuster   |
+| Web Exploitation| Burp Suite, ZAP |
+| Access & Shells | Netcat, Reverse Shells |
+| Cloud           | Azure |
+| Labs            | TryHackMe, Hack The Box |
+
+---
+
+📫 **Connect with Me**  
+📧 wenwaashley@gmail.com
+🔗 [LinkedIn](www.linkedin.com/in/ashley-wenwa)  
+💾 [Resume
+
+---
